@@ -16,7 +16,7 @@ My work combines theoretical research with real-world robotic system development
 
 ## 📂 Portfolio
 
-👉 [Download Full Portfolio (PDF)](./Duygu_Kaytan_Portfolio.pdf)
+👉 [Download Full Portfolio (PDF)](./Duygu_Kaytan_Research_Portfolio.pdf)
 Note: If GitHub preview does not render all pages, please download the PDF.
 
 ## 🧠 Research Interests
